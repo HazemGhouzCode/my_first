@@ -9,3 +9,6 @@ testing add my hamed
 50
 80
 70
+Hello fro the other side
+250
+3000
